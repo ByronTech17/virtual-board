@@ -11,6 +11,14 @@ a {
   text-decoration: none;
 }
 
-* {
-  box-sizing: border-box;
+:root {
+  --Grey_1: #dddddd;
+  --Grey_2: #d1d1d1;
+  --Grey_3: #b8b8b8;
+  --Grey_4: #6D6F75;
+  --Blue_1: #5E7A9F;
+  --Blue_2: #33455D;
+  --Blue_3: #232732;
+  --Red_1: #EA5452;
+  --Red_2: #520D0C;
 }

@@ -23,12 +23,13 @@ guie: Frontend Next.js app
 
 ## Branches
 
-- development -> this branch for everything else
-- main -> it's the main branch, and our production branch (for now) so commit to development
+- development -> dev branch
+- main -> it's the main branch
+- prod -> our production branch so leave this alone
 
 ## Contributions
 
-Virtual Board is open to contributions, but I recommend creating an issue or replying in a comment to let us know what you are working on first that way we don't overwrite each other. Also make sure to use the development branch!
+Virtual Board is open to contributions, but I recommend creating an issue or replying in a comment to let us know what you are working on first that way we don't overwrite each other. Also make sure to use the main branch!
 
 ## Virtual Board Reviewers
 

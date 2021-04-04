@@ -19,18 +19,16 @@
 
 ## Structure
 
-coming soon
+guie: Frontend Next.js app
 
 ## Branches
 
 - development -> this branch for everything else
-- main -> don't touch, this is what's running in prod
+- main -> it's the main branch, and our production branch (for now) so commit to development
 
 ## Contributions
 
-Virtual Board is open to contributions, but I recommend creating an issue or replying in a comment to let us know what you are working on first that way we don't overwrite each other.
-
-Please read [CONTRIBUTING.md]() for details on this project.
+Virtual Board is open to contributions, but I recommend creating an issue or replying in a comment to let us know what you are working on first that way we don't overwrite each other. Also make sure to use the development branch!
 
 ## Virtual Board Reviewers
 
@@ -38,13 +36,9 @@ Contributors helping to review/merge pull requests:
 
 - [@robigan](https://github.com/robigan)
 
-## Code of Conduct
-
-Please read [CODE_OF_CONDUCT.md]() for details on our code of conduct.
-
 ## Why did you make this?
 
-coming soon
+It is our dream to create a tool for daily usage with our school activities, it is highly inspired from BenAwad's DogeHouse. But we also want this to be a learning experience for the team!
 
 ## Investors
 
